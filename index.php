@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,7 +31,7 @@
                                             <ul id="navigation">
                                                 <li class="active"><a href="index.php">Home</a></li>
                                                 <li><a href="perfil.php">Perfil</a>
-                                                <li><a href="">Log Out</a>
+                                                <li><a href="phpsource/logout.php">Log Out</a>
                                                 </li>
                                             </ul>
                                         </nav>

@@ -1,6 +1,9 @@
-=> DATA - setencia preparda
-=> SESIONES _ VINCULAR SENTENCIA
-=>user = 
+=> DATA = USER
+=>PASSWORD = HASH
+
+USER : Daniel
+PASSWORD: 12345
+
 
 
 
